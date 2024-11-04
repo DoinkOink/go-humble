@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 04 Nov 2024 18:15:07 +0000</pubDate>
+    <pubDate>Mon, 04 Nov 2024 19:11:14 +0000</pubDate>
+    <item>
+      <title>Programming MEGA Bundle 2024 by Packt</title>
+      <link>https://humblebundle.com/books/programming-mega-bundle-2024-packt-books</link>
+      <description>Upgrade your functional programming knowledge</description>
+      <content:encoded><![CDATA[Level up your coding skills with the Programming Mega Bundle 2024! This amazing library features 15+ courses specifically curated with emerging trends and industry standards in mind. Get great courses from publisher, Packt like Learn LLVM 17, System Design Guide for Software Professionals, and Build Your Own Programming Language. Grow your career possibilities with courses for novice coders and seasoned pros, and help support Code.org with your purchase!]]></content:encoded>
+      <pubDate>Mon, 04 Nov 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shadowrun Fiction Mega Bundle by Catalyst Game Labs</title>
       <link>https://humblebundle.com/books/shadowrun-fiction-mega-bundle-catalyst-game-labs-books</link>
@@ -67,13 +74,6 @@
       <description>Could you survive the wilds?</description>
       <content:encoded><![CDATA[The Survival & Bushcraft Bundle by Skyhorse Publishing is the ultimate how-to guide on thriving in the wilderness and beyond. Get amazing outdoor survival titles like <em>Art of Bushcraft: A Field Guide to Preserving Traditional Skills and Reconnecting with Nature</em>, <em>Surviving the Coming War: A Guide to Wartime Survival for Civilians</em>, <em>Mini Farming Bible: The Complete Guide to Self-Sufficiency on 1/4 Acre</em>, and more! Learn potentially lifesaving techniques and support the BINC Foundation with your purchase!]]></content:encoded>
       <pubDate>Thu, 17 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Visualization by Wiley</title>
-      <link>https://humblebundle.com/books/data-visualization-wiley-books</link>
-      <description>Become a data visualization mastermind</description>
-      <content:encoded><![CDATA[Learn the skills and knowledge you need to succeed in data visualization with this educational bundle from Wiley. Inside this 20+ title library, you’ll gain expert insights and tips from books like <em>How to Become a Data Analyst: My Low-Cost, No Code Roadmap for Breaking into Tech</em>, <em>Present Beyond Measure: Design, Visualize, and Deliver Data Stories That Inspire Action</em>, and more. Deepen your understanding whether you’re a novice or a seasoned professional, and help support The Hidden Genius Project with your purchase!]]></content:encoded>
-      <pubDate>Mon, 14 Oct 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Call of Cthulhu by Chaosium, Inc. ENCORE</title>
