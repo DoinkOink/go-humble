@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Thu, 07 Nov 2024 18:15:08 +0000</pubDate>
+    <pubDate>Thu, 07 Nov 2024 19:09:19 +0000</pubDate>
+    <item>
+      <title>The 2024 Learn Unity Game Development Bundle</title>
+      <link>https://humblebundle.com/software/2024-learn-unity-game-development-bundle-software</link>
+      <description>Get started in Unity today</description>
+      <content:encoded><![CDATA[Learn to create games with Unity with these online courses from GameDev.tv! This comprehensive curriculum covers core skills and advanced concepts for the powerful and popular development platform. Find out how to make a 2D RPG combat system, VR experience, or turn-based strategy game. Get trained up on visual scripting, multiplayer, network coding, and more. Level up your Unity game dev skills, and help support Oceana with your purchase!<br><p>GameDev.tv have spent the last decade working with world class instructors to create the perfect learning experience for game development. Join our global community of over 2 million students and start making your own games today!]]></content:encoded>
+      <pubDate>Thu, 07 Nov 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gamedev Market: Best of 2024</title>
       <link>https://humblebundle.com/software/gamedev-market-best-2024-software</link>
@@ -48,13 +55,6 @@
       <pubDate>Mon, 21 Oct 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Learn Squared Presents: Concept Art in Unreal Engine</title>
-      <link>https://humblebundle.com/software/learn-squared-presents-concept-art-in-unreal-engine-software</link>
-      <description>Master the basics of Unreal Engine</description>
-      <content:encoded><![CDATA[Learn to use one of the best video game engines in the industry with the ultimate Unreal Engine bundle from Learn Squared! This curriculum will help you level up your skills with courses like <em>Unreal Engine 5 Basics</em>, <em>Concept Art in Unreal Engine 5</em>, and more. You'll create vibrant, stylized environments and gain foundational skills in CGI filmmaking, making this bundle perfect for aspiring game artists, concept designers, and filmmakers. Familiarize yourself with Unreal Engine 5’s latest tools like Nanite and Lumen too. Get the expert advice and knowledge you seek, and help support Girls Who Code with your purchase!]]></content:encoded>
-      <pubDate>Thu, 17 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Complete Learn to Code Python and ML Megabundle</title>
       <link>https://humblebundle.com/software/complete-learn-to-code-python-and-ml-megabundle-software</link>
       <description>Coding and Machine Learning made easy</description>
@@ -74,13 +74,6 @@
       <description>Create Memorable Characters</description>
       <content:encoded><![CDATA[FlippedNormals is here to help bring your character ideas to virtual life! Learn the basics of anatomy, and how to sculpt in Zbrush, plus a selection of kits for eyes, faces, skin, and more. Breathe life into your digital creations while supporting Cancer Research UK with your purchase!]]></content:encoded>
       <pubDate>Mon, 07 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CAD - The Ultimate Home Design and Construction Bundle</title>
-      <link>https://humblebundle.com/software/cad-ultimate-home-design-and-construction-bundle-software</link>
-      <description>Design and style your next home</description>
-      <content:encoded><![CDATA[Make your home construction and interior design dreams a reality with this bundle of software from Ashampoo. Get professional grade offerings like <em>3D CAD Professional 11</em>, <em>Interior Catalog Extension</em>, <em>Office Catalog Extension</em>—everything you need from floor to ceiling. Get the Ultimate Home Design and Construction Bundle today and help support Cancer Research UK with your purchase!]]></content:encoded>
-      <pubDate>Thu, 03 Oct 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
