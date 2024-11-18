@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 18 Nov 2024 18:16:27 +0000</pubDate>
+    <pubDate>Mon, 18 Nov 2024 19:09:47 +0000</pubDate>
+    <item>
+      <title>Math for Programmers 2024 by Manning</title>
+      <link>https://humblebundle.com/books/math-for-programmers-2024-manning-books</link>
+      <description>Strengthen your math muscles</description>
+      <content:encoded><![CDATA[Level up your coding skills with this bundle of ebooks! Get <em>Solve Any Data Analysis Problem</em>, <em>Graph Algorithms for Data Science</em>, <em>Math and Architectures of Deep Learning</em>, and more with this library of 20+ programming guides from Manning. Get resources for  novice coders and seasoned pros in growing your career, and help support the charity of your choice with your purchase!]]></content:encoded>
+      <pubDate>Mon, 18 Nov 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>A Wizard of Earthsea and More by Ursula K. Le Guin</title>
       <link>https://humblebundle.com/books/wizard-earthsea-and-more-ursula-k-le-guin-books</link>
@@ -83,13 +90,6 @@
       <pubDate>Thu, 31 Oct 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dragon Age and Mass Effect Comics by Dark Horse ENCORE</title>
-      <link>https://humblebundle.com/books/dragon-age-and-mass-effect-comics-dark-horse-encore-books</link>
-      <description>Explore the worlds of Dragon Age &amp; Mass Effect comics</description>
-      <content:encoded><![CDATA[The masterfully realized universes of famed game maker BioWare come alive on the page in this collection of <em>Dragon Age</em> and <em>Mass Effect</em> comics from Dark Horse! Prime yourself for high adventure with <em>Dragon Age: The Missing</em>, the comic story that leads into <em>Dragon Age: The Veilguard</em>, the upcoming fourth installment in the beloved RPG series. Get into Commander Shepard’s offscreen adventures in <em>Mass Effect Volume 1: Redemption</em>, which takes place after the events of the revered <em>Mass Effect 2</em>. Get more than 15 exciting <em>Dragon Age</em> and <em>Mass Effect</em> volumes in this bundle, and support Child’s Play with your purchase!]]></content:encoded>
-      <pubDate>Mon, 28 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Shells and Scripting for Seasoned Admins by O&#39;Reilly</title>
       <link>https://humblebundle.com/books/shells-and-scripting-for-seasoned-admins-oreilly-books</link>
       <description>Shells and scripting for seasoned admins</description>
@@ -102,13 +102,6 @@
       <description>Venture back to the Old World</description>
       <content:encoded><![CDATA[Gather up your party for a new <em>Warhammer</em> adventure with this bundle of tabletop role-playing books from acclaimed game company, Cubicle 7! This TTRPG explorer’s kit contains rulebooks, sourcebooks, and campaign resources for <em>Warhammer Fantasy Roleplay</em> like <em>Winds of Magic</em>, <em>Imperial Zoo</em>, <em>Salzenmund: City of Salt and Silver</em>, and more. Get everything you need to embark on an epic journey together, and help support Children’s Health Ireland with your purchase. ]]></content:encoded>
       <pubDate>Thu, 24 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows Sysadmin and DevOps by Packt</title>
-      <link>https://humblebundle.com/books/windows-sysadmin-and-devops-packt-books</link>
-      <description>Super SysAdmin &amp; DevOps Windows tools</description>
-      <content:encoded><![CDATA[Learn the skills and gain the knowledge you need to succeed in system administration and development operations for Windows with this bundle of insightful courses by Packt. Inside this amazing curriculum, you’ll get expert insights on mastering Windows Server 2022, Windows security and hardening, PowerShell scripting, and more. Deepen your understanding of SysAdmin and DevOps whether you’re a novice or a seasoned professional, and help support Save the Children with your purchase!]]></content:encoded>
-      <pubDate>Mon, 21 Oct 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
