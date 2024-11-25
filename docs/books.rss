@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 25 Nov 2024 18:16:21 +0000</pubDate>
+    <pubDate>Mon, 25 Nov 2024 19:09:38 +0000</pubDate>
+    <item>
+      <title>Microsoft Certification Prep by Microsoft Press and Pearson</title>
+      <link>https://humblebundle.com/books/microsoft-certification-prep-microsoft-press-and-pearson-books</link>
+      <description>Microsoft certification prep made easy</description>
+      <content:encoded><![CDATA[Learn the skills and knowledge you need to succeed on your Microsoft certification exams with this bundle of prep courses from Microsoft Press and Pearson. Inside this 20+ library, you’ll get expert insights from courses like <em>Exam Ref AZ-900 Microsoft Azure Fundamentals, 3rd Edition</em>, <em>Exam Ref AZ-104 Microsoft Azure Administrator, 2nd Edition</em>, <em>Exam Ref MS-102 Microsoft 365 Administrator</em>, and more. Deepen your understanding whether you’re a novice or a seasoned professional testing for your Microsoft certifications. Get this great bundle and help support Hello World with your purchase!]]></content:encoded>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Scythe and More by Neal Shusterman</title>
       <link>https://humblebundle.com/books/scythe-and-more-neal-shusterman-books</link>
@@ -102,13 +109,6 @@
       <description>A WORLD OF MAGIC, MACHINES, AND MAYHEM!</description>
       <content:encoded><![CDATA[Experience the dark, dystopian future of <em>Shadowrun</em>, where magic and technology collide! Whether you're jumping in for the first time or an experienced shadowrunner, there's something for any fan of the Sixth World in this massive ebook library of dozens of novels and anthologies, including <em>Dark Synergy</em>, <em>Magic, Machines, and Mayhem</em>, and <em>Shadow Borders</em>. Plus, a portion of your purchase helps support the BINC Foundation, a charity dedicated to assisting booksellers and comic sellers in times of financial crisis.]]></content:encoded>
       <pubDate>Sat, 02 Nov 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shells and Scripting for Seasoned Admins by O&#39;Reilly</title>
-      <link>https://humblebundle.com/books/shells-and-scripting-for-seasoned-admins-oreilly-books</link>
-      <description>Shells and scripting for seasoned admins</description>
-      <content:encoded><![CDATA[Level up your coding skills with this bundle of ebooks! Learn PowerShell, scripting, Linux, and more with this library of 10+ courses from O’Reilly. Programs like <em>Efficient Linux at the Command Line: Boost Your Command-Line Skills</em>, <em>Learning the Bash Shell: Unix Shell Programming</em>, and <em>Efficient Linux at the Command Line: Boost Your Command-Line Skills</em> are great for novice coders and seasoned pros alike. Get this amazing bundle and help support Code for America with your purchase. ]]></content:encoded>
-      <pubDate>Mon, 28 Oct 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
