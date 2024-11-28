@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Thu, 28 Nov 2024 18:16:18 +0000</pubDate>
+    <pubDate>Thu, 28 Nov 2024 19:09:34 +0000</pubDate>
+    <item>
+      <title>The Black Friday Rust Bundle</title>
+      <link>https://humblebundle.com/software/black-friday-rust-bundle-software</link>
+      <description>Shake off the Rust on Black Friday</description>
+      <content:encoded><![CDATA[Learn Rust with this bundle of courses from Zenva! This comprehensive curriculum will help you level up your skills with courses like <em>Learn Rust Programming for Beginners</em>, <em>Rust Web App Project - Real-Time Video Broadcasting</em>, <em>Build Your First Game with Rust and Bevy</em>, and more. Get expert advice from the pros and the knowledge you seek. Master one of the premier general-purpose programming languages, and help support Girls Who Code with your purchase!]]></content:encoded>
+      <pubDate>Thu, 28 Nov 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vocal Master Collection - Acapellas, Loops &amp; Plugins For Music Production &amp; Game Design</title>
       <link>https://humblebundle.com/software/vocal-master-collection-acapellas-loops-plugins-for-music-production-game-design-software</link>
@@ -55,13 +62,6 @@
       <pubDate>Mon, 11 Nov 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The 2024 Learn Unity Game Development Bundle</title>
-      <link>https://humblebundle.com/software/2024-learn-unity-game-development-bundle-software</link>
-      <description>Get started in Unity today</description>
-      <content:encoded><![CDATA[Learn to create games with Unity with these online courses from GameDev.tv! This comprehensive curriculum covers core skills and advanced concepts for the powerful and popular development platform. Find out how to make a 2D RPG combat system, VR experience, or turn-based strategy game. Get trained up on visual scripting, multiplayer, network coding, and more. Level up your Unity game dev skills, and help support Oceana with your purchase!<br><p>GameDev.tv have spent the last decade working with world class instructors to create the perfect learning experience for game development. Join our global community of over 2 million students and start making your own games today!]]></content:encoded>
-      <pubDate>Thu, 07 Nov 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Gamedev Market: Best of 2024</title>
       <link>https://humblebundle.com/software/gamedev-market-best-2024-software</link>
       <description>75+ assets to create endlessly</description>
@@ -76,25 +76,11 @@
       <pubDate>Fri, 01 Nov 2024 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Super Game Asset Bundle (+7,000 Assets) for Godot, Unreal and Unity</title>
-      <link>https://humblebundle.com/software/super-game-asset-bundle-7000-assets-for-godot-unreal-and-unity-software</link>
-      <description>So many assets, so little time</description>
-      <content:encoded><![CDATA[Game developers, build your worlds with the Super Game Assets Bundle for Unreal, Godot, and Unity—featuring 7,000+ audio, visual, and environmental assets. This high-quality bundle features a truly diverse collection of themed assets ranging from medieval to cyberpunk. Create the next great RPG or action game with the Super Game Assets Bundle and help support Direct Relief with your purchase!]]></content:encoded>
-      <pubDate>Thu, 31 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Big Phat Music Bundle</title>
       <link>https://humblebundle.com/software/big-phat-music-bundle-software</link>
       <description>Epic music for every creative endeavor</description>
       <content:encoded><![CDATA[Create the ultimate audioscape with Phat Phrog Studio's flagship bundle! This exclusive collection offers nearly 3,000 royalty-free tracks across 300+ music albums split into 86 genre-diverse asset packs, from RPG battle themes, mysterious survival melodies, heart pounding adrenaline action to chilled lo-fi beats. With 130+ hours of high-quality WAV files, including over 1,200 ambient tracks that are perfect for TTRPG's, this bundle has been developed over three years, valued at nearly $4,000. Game-ready and YouTube-friendly, it's everything you need for immersive soundscapes—all while supporting Direct Relief!]]></content:encoded>
       <pubDate>Mon, 28 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DESIGN with CorelDRAW &amp; PERFECT with AI</title>
-      <link>https://humblebundle.com/software/design-with-coreldraw-perfect-with-ai-software</link>
-      <description>CorelDRAW for novices and professionals</description>
-      <content:encoded><![CDATA[Master one of the most widely adapted design programs with our CorelDRAW 2024 Bundle. Get amazing software like <em>Corel Painter 2023</em>, <em>PaintShop Pro 2023</em>, and <em>Vision FX</em>. Learn professional graphic design software with vector, technical illustration, and CAD software options to design logos, posters, drafting, and more. Level up your creative skills and help support Children’s Miracle Network Hospitals today!]]></content:encoded>
-      <pubDate>Thu, 24 Oct 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
