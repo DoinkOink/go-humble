@@ -4,7 +4,7 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Thu, 28 Nov 2024 19:09:34 +0000</pubDate>
+    <pubDate>Thu, 28 Nov 2024 20:13:21 +0000</pubDate>
     <item>
       <title>The Black Friday Rust Bundle</title>
       <link>https://humblebundle.com/software/black-friday-rust-bundle-software</link>
@@ -60,6 +60,13 @@
       <description>A bundle bursting with amazing music</description>
       <content:encoded><![CDATA[Create the perfect audioscape for your game, film, or creative project with this bundle of royalty-free sounds from Monument Studios! This massive library features loops, samples, one-shots, instruments, and others for a variety of genres & styles. Amazing collections like <em>Battle Music Vol 1 & 2</em>, <em>Fantasy Music Vol 1</em>, <em>Cinematic Hits</em>, and more. Get the assets you need to achieve the sound you’re looking for, and help support Direct Relief with your purchase!]]></content:encoded>
       <pubDate>Mon, 11 Nov 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2024 Learn Unity Game Development Bundle</title>
+      <link>https://humblebundle.com/software/2024-learn-unity-game-development-bundle-software</link>
+      <description>Get started in Unity today</description>
+      <content:encoded><![CDATA[Learn to create games with Unity with these online courses from GameDev.tv! This comprehensive curriculum covers core skills and advanced concepts for the powerful and popular development platform. Find out how to make a 2D RPG combat system, VR experience, or turn-based strategy game. Get trained up on visual scripting, multiplayer, network coding, and more. Level up your Unity game dev skills, and help support Oceana with your purchase!<br><p>GameDev.tv have spent the last decade working with world class instructors to create the perfect learning experience for game development. Join our global community of over 2 million students and start making your own games today!]]></content:encoded>
+      <pubDate>Thu, 07 Nov 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Gamedev Market: Best of 2024</title>
