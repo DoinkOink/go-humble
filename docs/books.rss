@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 02 Dec 2024 18:17:04 +0000</pubDate>
+    <pubDate>Mon, 02 Dec 2024 19:10:07 +0000</pubDate>
+    <item>
+      <title>Hacking 2024 by No Starch</title>
+      <link>https://humblebundle.com/books/hacking-2024-no-starch-books</link>
+      <description>Stop hackers by understanding hacking</description>
+      <content:encoded><![CDATA[Level up your hacking and cyber security skills with this bursting tech bundle from No Starch! Learn from top hacking courses like <em>Hacks, Leaks, and Revelations</em>, <em>Windows Security Internals</em>, <em>Practical IoT Hacking</em>, and more! Get 15+ guides and courses to help you better understand the intricacies of hacking so you can better defend yourself from future cyber attacks. Get professional level resources for both novice and seasoned hackers, and help support the Electronic Frontier Foundation and ACLU Foundation with your purchase!]]></content:encoded>
+      <pubDate>Mon, 02 Dec 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Books About Games by Boss Fight Games</title>
       <link>https://humblebundle.com/books/books-about-games-boss-fight-games-books</link>
@@ -74,20 +81,6 @@
       <description>Build a deck of awesome G.I. Joe Heroes</description>
       <content:encoded><![CDATA[Gather up your party for a deck-building game experience like no other—join the war against the nefarious group, Cobra, in the <em>G.I. Joe Deck-Building Game</em>. Create a team of elite comrades and lead them to battle against your friends. Joe, Snake Eyes, and more are at your disposal… How will you use them? Get the <em>G.I. JOE Deck-Building Game Cold Snap Expansion</em>, <em>G.I. JOE Deck-Building Game Shadow of the Serpent Expansion</em> and other physical goods shipped to your home. Plus, a portion of your purchase helps support the charity of your choice!</p> <p><a style="color: #ef9741;"> Shipping is only available in the US, Canada, Australia, and New Zealand. </a></p>]]></content:encoded>
       <pubDate>Thu, 14 Nov 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coding Cookbooks 2024 by O&#39;Reilly</title>
-      <link>https://humblebundle.com/books/coding-cookbooks-2024-oreilly-books</link>
-      <description>Pocket guides &amp; references for programmers</description>
-      <content:encoded><![CDATA[Looking for the recipe to coding success? Pick up these concise, easy-to-use digital guides and references from O’Reilly! This bundle features the latest updates to popular courses like <em>Machine Learning with Python Cookbook</em>, and <em>Terraform Cookbook</em>. The books in this bundle cover a wide range of topics, including programming with Qiskit, Q#, C#, SQL, and PowerShell; understanding machine learning; using Linux; and lots more. Plus, your purchase helps support Code for America. Update your library with these new courses today!]]></content:encoded>
-      <pubDate>Mon, 11 Nov 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Programming MEGA Bundle 2024 by Packt</title>
-      <link>https://humblebundle.com/books/programming-mega-bundle-2024-packt-books</link>
-      <description>Upgrade your functional programming knowledge</description>
-      <content:encoded><![CDATA[Level up your coding skills with the Programming Mega Bundle 2024! This amazing library features 15+ courses specifically curated with emerging trends and industry standards in mind. Get great courses from publisher, Packt like Learn LLVM 17, System Design Guide for Software Professionals, and Build Your Own Programming Language. Grow your career possibilities with courses for novice coders and seasoned pros, and help support Code.org with your purchase!]]></content:encoded>
-      <pubDate>Mon, 04 Nov 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
