@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Sat, 28 Dec 2024 18:14:14 +0000</pubDate>
+    <pubDate>Sat, 28 Dec 2024 19:08:36 +0000</pubDate>
+    <item>
+      <title>Spies vs Vampires: The complete Night&#39;s Black Agents &amp; Dracula Dossier Bundle</title>
+      <link>https://humblebundle.com/books/spies-vs-vampires-complete-nights-black-agents-dracula-dossier-bundle-books</link>
+      <description>Burned spies face the horrors of the night</description>
+      <content:encoded><![CDATA[Powered by the GUMSHOE system, the Night’s Black Agents RPG lets you play hyper-competent spies fighting a conspiracy led by vampires. This bundle features rules, adventures and expansions for the <em>Night’s Black Agents</em> RPG, including the epic <em>Dracula Dossier</em> campaign. In this campaign, you must track down and face the ultimate threat - Dracula himself! The Dossier offers an updated version of Stoker’s masterpiece and adds new letters and recordings, diary entries, and documents suppressed by Her Majesty’s Government, plus a <em>Director’s Handbook</em> filled with locations and leads to let your players hunt their greatest adversary. From Transylvania to London, the hunt is on!]]></content:encoded>
+      <pubDate>Sat, 28 Dec 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stitch &amp; Bitch by Insight Editions</title>
       <link>https://humblebundle.com/books/stitch-bitch-insight-editions-books</link>
@@ -53,13 +60,6 @@
       <description>The Ultimate Data Engineer’s Cookbook </description>
       <content:encoded><![CDATA[Strengthen your skills and knowledge in data engineering with the Ultimate Data Engineer’s Cookbook Bundle of ebooks Packt. Inside this 20+ book library, you’ll get expert insights from courses like <em>Data Governance Handbook</em>, <em>Databricks Certified Associate Developer for Apache Spark Using Python</em>, <em>The Ultimate Guide to Snowpark</em>, and more. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Coral Guardian with your purchase!]]></content:encoded>
       <pubDate>Mon, 09 Dec 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Wellness &amp; Happiness Toolkit by New World Library</title>
-      <link>https://humblebundle.com/books/your-wellness-happiness-toolkit-new-world-library-books</link>
-      <description>Prioritize your happiness and wellness</description>
-      <content:encoded><![CDATA[Learn to prioritize your wellness and happiness with our newest bundle from New World Library! Get ebooks like <em>Career Self-Care</em>, <em>Healing with Nature</em>, <em>Say it Out Loud</em>, and <em>Panic Free</em>. You are important and you’re worth treating yourself right—get the bundle that can help you become the best version of yourself. Plus, your purchase helps support World Central Kitchen!]]></content:encoded>
-      <pubDate>Sat, 07 Dec 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
