@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 30 Dec 2024 18:15:34 +0000</pubDate>
+    <pubDate>Mon, 30 Dec 2024 19:08:50 +0000</pubDate>
+    <item>
+      <title>Cybersecurity and Forensics by Packt</title>
+      <link>https://humblebundle.com/books/cybersecurity-and-forensics-packt-books</link>
+      <description>Arm yourself for cyber-warfare </description>
+      <content:encoded><![CDATA[Learn the skills and knowledge you need to succeed in defending your networks, websites, and more with this bundle of in-depth cybersecurity lessons from Packt. Inside this 15+ course library, you’ll get expert insights from industry-leading courses including <em>Cyber Warfare - Truth, Tactics, and Strategies</em>, <em>Practical Cybersecurity Architecture</em>, <em>iOS Forensics for Investigators</em>, and more! Deepen your understanding of the detection and prevention of cyber attacks, whether you’re a novice or a seasoned professional, and help support One Tree Planted with your purchase!]]></content:encoded>
+      <pubDate>Mon, 30 Dec 2024 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spies vs Vampires: The complete Night&#39;s Black Agents &amp; Dracula Dossier Bundle</title>
       <link>https://humblebundle.com/books/spies-vs-vampires-complete-nights-black-agents-dracula-dossier-bundle-books</link>
@@ -53,13 +60,6 @@
       <description>A hellishly good Hellboy Megabundle </description>
       <content:encoded><![CDATA[Lose yourself in the renowned <em>Hellboy</em> comic series in this Megabundle from Dark Horse Comics! Get 25+ novels, comics, and graphic novels exploring the rich, dark, hilarious and action-packed world of the demonic superhero, Hellboy. This Megabundle features red hot Hellboy titles like <em>Hellboy and the B.P.R.D: 1952-1956</em>, Mike Mignola's <em>Hellboy 2023</em>, <em>Abe Sapien Volume 1: The Drowning</em>, and more! Explore the expansive Hellboy Universe and help support World Central Kitchen with your purchase!]]></content:encoded>
       <pubDate>Thu, 12 Dec 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tools for Data Engineers by Packt</title>
-      <link>https://humblebundle.com/books/tools-for-data-engineers-packt-books</link>
-      <description>The Ultimate Data Engineer’s Cookbook </description>
-      <content:encoded><![CDATA[Strengthen your skills and knowledge in data engineering with the Ultimate Data Engineer’s Cookbook Bundle of ebooks Packt. Inside this 20+ book library, you’ll get expert insights from courses like <em>Data Governance Handbook</em>, <em>Databricks Certified Associate Developer for Apache Spark Using Python</em>, <em>The Ultimate Guide to Snowpark</em>, and more. Deepen your understanding whether you’re a novice or a seasoned professional, and help support Coral Guardian with your purchase!]]></content:encoded>
-      <pubDate>Mon, 09 Dec 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
