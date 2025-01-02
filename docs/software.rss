@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Thu, 02 Jan 2025 18:15:56 +0000</pubDate>
+    <pubDate>Thu, 02 Jan 2025 19:08:55 +0000</pubDate>
+    <item>
+      <title>The Complete Learn to Code Bundle 2025</title>
+      <link>https://humblebundle.com/software/complete-learn-to-code-bundle-2025-software</link>
+      <description>Learn to code games like a pro</description>
+      <content:encoded><![CDATA[Achieve your New Year's resolution and learn to code! This comprehensive curriculum will help you level up your skills with courses like Unreal Engine 5.5 Game Developer's Toolbox - Essential Templates and Assets, Godot 4 Game Creator's Pack - Essential Templates for Instant Game Development, and many more. Our collection of 40+ courses includes Humble Bundle-exclusive content available only to our community. Familiarize yourself with popular tools like Python and Unreal Engine, all while supporting Direct Relief with your purchase!  ]]></content:encoded>
+      <pubDate>Thu, 02 Jan 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Game Dev Asset Mega Bundle: Unreal Engine &amp; Unity</title>
       <link>https://humblebundle.com/software/gamedev-asset-mega-bundle-unreal-engine-unity-software</link>
@@ -58,7 +65,7 @@
       <title>Ultimate 2D and 3D Artist Bundle</title>
       <link>https://humblebundle.com/software/ultimate-2d-and-3d-artist-bundle-software</link>
       <description>The ultimate artists&#39; software bundle</description>
-      <content:encoded><![CDATA[Animate and create art like a professional with the Ultimate 2D and 3D Artists Bundle from Graphixly LLC. Perfect for artists looking to break into gaming, and industry veterans alike, this amazing bundle will have you creating in 2D and 3D in no time! Get tools and software like <em>Moho Pro 12.5</em>, <em>Paintstorm Studio</em>, <em>Realistic Paint Studio</em>, and more—and help support Direct Relief with your purchase. Bring your creations to life today!]]></content:encoded>
+      <content:encoded><![CDATA[Animate and create art like a professional with the Ultimate 2D and 3D Artists Bundle from Graphixly LLC. Perfect for artists looking to break into gaming, and industry veterans alike, this amazing bundle will have you creating in 2D and 3D in no time! Get tools and software like <em>Moho Pro 12.5</em>, <em>Painstorm Studio</em>, <em>Realistic Paint Studio</em>, and more—and help support Direct Relief with your purchase. Bring your creations to life today!]]></content:encoded>
       <pubDate>Thu, 12 Dec 2024 19:00:00 +0000</pubDate>
     </item>
     <item>
@@ -74,20 +81,6 @@
       <description>Your Blender skills just got better</description>
       <content:encoded><![CDATA[Learn the basics of Blender with this bundle of courses from CG Cookie! This comprehensive curriculum will help you master the fundamentals of Blender with topics like <em>Fundamentals of Mesh Modeling</em>, <em>Fundamentals of Digital Sculpting</em>, <em>Fundamentals of Materials and Shading</em>, and more! Get the Ultimate Blenders Basics Bundle and take your skills to the next level with the expert advice and knowledge recorded in Blender 4.2 LTS. Help support One Tree Planted with your purchase!ics of Blender with this bundle of courses from CG Cookie!]]></content:encoded>
       <pubDate>Mon, 09 Dec 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gamedev Market: Best of 2024</title>
-      <link>https://humblebundle.com/software/gamedev-market-best-2024-software</link>
-      <description>75+ assets to create endlessly</description>
-      <content:encoded><![CDATA[Game developers, build your worlds with this bundle of 75+ assets from GameDev Market! This massive collection features a diverse range of high-quality assets, including detailed tilesets, unique character sprites, huge music and sound effects packs, and so much more. Perfect for indie developers and seasoned studios alike, this bundle has everything you need to help bring your game to life, and help support The Michael J. Fox Foundation with your purchase!]]></content:encoded>
-      <pubDate>Mon, 04 Nov 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DESIGN with CorelDRAW &amp; PERFECT with AI</title>
-      <link>https://humblebundle.com/software/design-with-coreldraw-perfect-with-ai-software</link>
-      <description>CorelDRAW for novices and professionals</description>
-      <content:encoded><![CDATA[Master one of the most widely adapted design programs with our CorelDRAW 2024 Bundle. Get amazing software like <em>Corel Painter 2023</em>, <em>PaintShop Pro 2023</em>, and <em>Vision FX</em>. Learn professional graphic design software with vector, technical illustration, and CAD software options to design logos, posters, drafting, and more. Level up your creative skills and help support Children’s Miracle Network Hospitals today!]]></content:encoded>
-      <pubDate>Thu, 24 Oct 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
