@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle games bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Wed, 08 Jan 2025 18:15:53 +0000</pubDate>
+    <pubDate>Wed, 08 Jan 2025 19:09:08 +0000</pubDate>
+    <item>
+      <title>Programming Games</title>
+      <link>https://humblebundle.com/games/new-year-new-you-programming-games</link>
+      <description>Explore the FUN-damentals of coding and computing</description>
+      <content:encoded><![CDATA[Challenge your brain and have a blast learning with these acclaimed logic and puzzle games exploring key concepts of programming and machine learning. Build a neural network to communicate with cats in <em>while True: learn()</em>. Automate office workers and create a living CPU in the award-winning <em>Human Resource Machine</em>, and its acclaimed follow-up <em>7 Billion Humans</em>. Build a feline <em>Learning Factory</em> on Mars, become a hacker in <em>EXAPUNKS</em>, and learn something new in process—all while supporting Cool Effect!]]></content:encoded>
+      <pubDate>Wed, 08 Jan 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Speedrunning with Awesome GDQ</title>
       <link>https://humblebundle.com/games/speedrunning-with-awesome-gdq</link>
