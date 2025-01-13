@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 13 Jan 2025 18:16:56 +0000</pubDate>
+    <pubDate>Mon, 13 Jan 2025 19:09:25 +0000</pubDate>
+    <item>
+      <title>Make Your Own Games In Unreal Engine 5 from GameDev.tv</title>
+      <link>https://humblebundle.com/software/make-your-own-games-in-unreal-engine-5-from-gamedevtv-software</link>
+      <description>From gamer to game developer</description>
+      <content:encoded><![CDATA[Are you curious about turning your passion for gaming into a career in game development? Our latest bundle with GameDev.tv will help teach you how to use Unreal Engine 5 and get you started on an exciting new adventure. Master the universally beloved game engine with our comprehensive bundle composed of industry-leading courses like <em>Unreal Engine 5 C++: Make Your Own Action Combat Game</em>, <em>Unreal Engine 5 Blueprints: First Person Shooter</em>, and more! Start creating and help support Direct Relief with your purchase.]]></content:encoded>
+      <pubDate>Mon, 13 Jan 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Royalty Free Music, SFX &amp; More from GameDev Market 2025</title>
       <link>https://humblebundle.com/software/royalty-free-music-sfx-and-more-from-gamedev-market-2025-software</link>
@@ -53,13 +60,6 @@
       <description>Edit like a legend of the lens</description>
       <content:encoded><![CDATA[Level up your photo skills with The Ultimate Photographer’s Toolkit Bundle from Ashampoo! Perfect for seasoned photographers and hobbyists alike, enhance your knowledge in a variety of editing disciplines. Get the power of advanced editing software like <em>Ashampoo SHARPEN #5 Professionals</em>, <em>Ashampoo ZOOM #2 professional</em>, <em>Ashampoo HDR #10 professional</em>, and more. Become a Lens Legend—and help support Cancer Research UK with your purchase today!]]></content:encoded>
       <pubDate>Tue, 17 Dec 2024 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Smarter: The Low/No-Code Development Essentials</title>
-      <link>https://humblebundle.com/software/build-smarter-lownocode-development-essentials-software</link>
-      <description>No code—no problem!</description>
-      <content:encoded><![CDATA[Learn to build smarter with our hottest no-code software bundle from the experts at Packt! Perfect for experts and novices—get tools like <em>Power Automate - A Guide to Power Automate Desktop</em>, <em>MindStudio Mastery - Automate Workflows and Build Gen AI Apps</em>, and <em>The Complete Masterclass on PL-900 Certification</em>—and help support Alzheimer’s Research UK with your purchase! ]]></content:encoded>
-      <pubDate>Mon, 16 Dec 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
