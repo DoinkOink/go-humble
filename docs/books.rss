@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 20 Jan 2025 18:15:01 +0000</pubDate>
+    <pubDate>Mon, 20 Jan 2025 19:09:01 +0000</pubDate>
+    <item>
+      <title>Mastering Every Database by Packt</title>
+      <link>https://humblebundle.com/books/mastering-every-database-packt-books</link>
+      <description>Become a database mastermind</description>
+      <content:encoded><![CDATA[Learn the skills and knowledge you need to master every database with this curated collection by the professionals at Packt. Inside this 15+ course library, you’ll get pro quality lessons like <em>Mastering PostgreSQL 17</em>, <em>Amazon DynamoDB - The Definitive Guide</em>, <em>Database Design and Modeling with Google Cloud</em>, and more! Deepen your understanding whether you’re a novice or a seasoned professional, and help support the International Medical Corps with your purchase!]]></content:encoded>
+      <pubDate>Mon, 20 Jan 2025 19:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sports Trailblazers: Legends Who Changed the Game</title>
       <link>https://humblebundle.com/books/sports-trailblazers-legends-who-changed-game-books</link>
@@ -53,13 +60,6 @@
       <description>Piano playing made easy</description>
       <content:encoded><![CDATA[Hit all the right keys with our latest music bundle from Wiley! Get ebooks to teach you piano and other general musical skills like <em>Piano & Keyboard All-in-One For Dummies</em>, <em>Music Composition For Dummies</em>, <em>Songwriting For Dummies</em>, and <em>Piano Exercises For Dummies</em>. The experts behind the <em>For Dummies</em> series have been helping with reading and learning a variety of skills for more than 30 years, and their lessons will have you creating original music with ease. Plus, your purchase directly helps support Music Will— a nonprofit supporting future generations of musicians.]]></content:encoded>
       <pubDate>Thu, 02 Jan 2025 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity and Forensics by Packt</title>
-      <link>https://humblebundle.com/books/cybersecurity-and-forensics-packt-books</link>
-      <description>Arm yourself for cyber-warfare </description>
-      <content:encoded><![CDATA[Learn the skills and knowledge you need to succeed in defending your networks, websites, and more with this bundle of in-depth cybersecurity lessons from Packt. Inside this 15+ course library, you’ll get expert insights from industry-leading courses including <em>Cyber Warfare - Truth, Tactics, and Strategies</em>, <em>Practical Cybersecurity Architecture</em>, <em>iOS Forensics for Investigators</em>, and more! Deepen your understanding of the detection and prevention of cyber attacks, whether you’re a novice or a seasoned professional, and help support One Tree Planted with your purchase!]]></content:encoded>
-      <pubDate>Mon, 30 Dec 2024 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
