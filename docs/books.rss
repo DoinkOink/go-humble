@@ -4,7 +4,14 @@
     <link>https://go-humble.github.io</link>
     <description>Awesome RSS Feeds about HumbleBundle books bundles!</description>
     <managingEditor>shimst3r+rss@gmail.com (Nils Müller)</managingEditor>
-    <pubDate>Mon, 21 Jul 2025 17:15:05 +0000</pubDate>
+    <pubDate>Mon, 21 Jul 2025 18:20:52 +0000</pubDate>
+    <item>
+      <title>SQL and Databases by O&#39;Reilly</title>
+      <link>https://humblebundle.com/books/sql-and-databases-oreilly-books</link>
+      <description>The scorching hot SQL bundle</description>
+      <content:encoded><![CDATA[Level up your programming skills with the all-new SQL and Databases Bundle by O’Reilly! Learn the industry-standard language for managing and manipulating data in relational databases—and so much more. This expansive course library features essential titles like <em>Learning PHP, MySQL & JavaScript</em> and <em>DuckDB: Up and Running</em>. Whether you're a novice programmer or a seasoned pro, you'll find resources to sharpen your skills and open new doors in tech. Pay what you want and help support Code for America with your purchase!]]></content:encoded>
+      <pubDate>Mon, 21 Jul 2025 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Unofficial Harry Potter Reference Library Presented by MuggleNet</title>
       <link>https://humblebundle.com/books/unofficial-harry-potter-reference-library-presented-mugglenet-books</link>
